@@ -8,4 +8,5 @@ const Footer = ({fecha}) => {
     )
 }
 
+
 export default Footer
